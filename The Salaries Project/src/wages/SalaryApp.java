@@ -127,14 +127,15 @@ public class SalaryApp {
        try{
        do
        {
-               System.out.println("----------Salary Application---------");
+               System.out.println("______________Salary Application______________");
                System.out.println("Enter a number(1-4) to indicate your choice");
                System.out.println("1-Register and employee");
                System.out.println("2-Search for an employee");
                System.out.println("3-Display an employee");
                System.out.println("4-Display the total salary paid out");
                System.out.println("-1 to stop");
-               System.out.println("-------------------------------------");
+               System.out.println("________________________________________________");
+               System.out.println("changes saved to git");
                no = scan.nextInt();
                        
            if(no == 1){
